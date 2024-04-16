@@ -1,0 +1,46 @@
+h1{
+    color:black;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align:left;
+    font-size: larger;
+
+}
+.descripcion{
+    float: left;
+}
+
+#artista{
+    background-color: yellow;
+    text-align: center;
+}
+a[href="https://open.spotify.com/intl-es/album/16pubXUlqRziVWRsT6lLNz?si=_fA9wMQUQqeBh4r_xAsnFA"]{
+    color:orangered;
+    font-style: italic;
+    font-size: large;
+}
+.tracks{
+    float:right;
+}
+#sunsetseason{
+    background-color: orangered;
+    text-align: center;
+}
+
+#kidkrow{
+    background-color: gray;
+    text-align: center;
+}
+
+#superache{
+    background-color: red;
+    text-align: center;
+}
+
+#foundheaven{
+    background-color: yellow;
+    text-align: center;
+}
